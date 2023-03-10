@@ -1,0 +1,15 @@
+
+.accordion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.open-close-icon{
+    background-image: url(./assets/icons/plus-solid.svg);
+}
+
+.accordion-body{
+
+}
